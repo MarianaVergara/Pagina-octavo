@@ -1,51 +1,110 @@
 .contenedor{
+
     width: 100%;
-    height: 1200px;
-    background-color: aquamarine;
+    height: 11450px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
 }
 
 .encabezado{
+
     width: 100%;
-    height: 200px;
-    background-color: antiquewhite;
+    height: 235px;
+    background-color: rgb(255, 215, 255);
+    font-size: 70px;
     text-align: center;
-    font-size: 60px;
+    color: rgb(255, 0, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.matematicas{
+.mate{
     width: 100%;
-    height: 1400px;
-    background-color: rgb(247, 246, 195);
-    font-size: 25px;
+    height: 185px;
+    background-color: rgb(255, 246, 194);
     text-align: center;
+    font-size: 60px;
+    color: rgb(255, 217, 0);
+    
+}
+.matematicas{
+
+    width: 100%;
+    height: 2370px;
+    background-color: rgb(255, 246, 194);
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.biolo{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(195, 255, 183);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 255, 76);
+    
 }
 
 .biologia{
+
     width: 100%;
-    height: 1120px;
-    background-color: rgb(207, 247, 204);
-    font-size: 25px;
+    height: 1575px;
+    background-color: rgb(195, 255, 183);
     text-align: center;
+    font-size: 30px;
+   
 }
 
-.quimica{
+.quimi{
     width: 100%;
-    height: 930px;
-    background-color: rgb(228, 190, 243);
-    font-size: 25px;
+    height: 185px;
+    background-color: rgb(203, 175, 255);
     text-align: center;
+    font-size: 60px;
+    color: rgb(119, 0, 255);
+}
+.quimica{
+
+    width: 100%;
+    height: 1250px;
+    background-color: rgb(203, 175, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+.tecno{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(191, 253, 253);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 255, 255);
 }
 .tecnologia{
+
     width: 100%;
-    height: 3000px;
-    background-color: rgb(227, 252, 245);
-    font-size: 25px;
+    height: 2000px;
+    background-color: rgb(191, 253, 253);
     text-align: center;
+    font-size: 30px;
 }
-.ingles{
+
+.ingle{
+
     width: 100%;
-    height: 3000px;
-    background-color: rgb(215, 217, 248);
-    font-size: 25px;
+    height: 185px;
+    background-color: rgb(161, 175, 255);
     text-align: center;
+    font-size: 60px;
+    color: rgb(80, 77, 255);
+}
+
+.ingles{
+
+    width: 100%;
+    height: 3600px;
+    background-color: rgb(161, 175, 255);
+    font-size: 30px;
 }
